@@ -12,9 +12,10 @@
 - short (2byte)
 - int (4byte)
 - long (8byte)
-실수
+<br>실수
 - float (4byte)
 - double (8byte)
+<br>논리
 - boolean (1byte)
 
 float은 4byte의 크기인데 int(4byte)와 long(8byte)보다 더 큰 타입으로 표시했다.
